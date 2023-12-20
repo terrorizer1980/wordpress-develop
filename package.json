@@ -115,7 +115,7 @@
 		"@wordpress/list-reusable-blocks": "3.0.18",
 		"@wordpress/media-utils": "3.0.5",
 		"@wordpress/notices": "3.2.8",
-		"@wordpress/nux": "5.0.18",
+		"@wordpress/nux": "7.0.0",
 		"@wordpress/plugins": "4.0.7",
 		"@wordpress/primitives": "3.0.4",
 		"@wordpress/priority-queue": "2.2.3",
